@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'peyda';
+					src: url('4857peyda.woff') format('woff2'),
+						url('4857peyda.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.peyda{font-family: 'peyda' !important;}
+
+		
